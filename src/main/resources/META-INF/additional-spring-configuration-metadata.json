@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "auth_exchange_token",
+      "type": "java.lang.String",
+      "description": "Description for auth_exchange_token."
+  }
+] }
